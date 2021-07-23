@@ -1,5 +1,10 @@
 # BlenderHotKeys
 
+## Preferences
+Keymap -> Select Width = Right
+Keymap -> Spacebar Action = Search
+
+
 ## Basic
 | Operation  | HotKey |
 | ------------- | ------------- |

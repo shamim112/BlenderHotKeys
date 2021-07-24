@@ -1,7 +1,6 @@
-# Blender Cheats
 
 
-
+# BlenderHotKeys
 
 ## Preferences
 Keymap -> Select Width = Left
@@ -81,8 +80,9 @@ Insert Object at specific point:
 1. Move 3d cursor
 2. Shift + A
 
-
-
+Change Object Origin:  
+1. Position 3D Cursor
+2. Object Menu -> Set Origin -> Origin to 3D Cursor / Origin to Center of mass
 
 
 
